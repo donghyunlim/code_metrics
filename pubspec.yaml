@@ -1,4 +1,4 @@
-name: dart_code_metrics
+name: dart_code_metrics_custom
 version: 5.7.6
 description: Software analytics tool that helps developers analyse and improve software quality.
 homepage: https://dcm.dev/
